@@ -141,11 +141,11 @@ margin-bottom: px;
 .rrr {
     margin-top: -200px;
     margin-bottom: 100px;
-    margin-left: 0px;
+    margin-right: ;
 }
 
 .j {
-    margin-left: 900px;
+    margin-left: 880px;
     margin-top: -600px;
     margin-right: 0px;
     margin-bottom: 200px;
@@ -184,11 +184,14 @@ margin-bottom: px;
     background-color: white;
     background-size: cover;
     margin-left: 25px;
-    margin-right: 930px;
+    margin-right: 800px;
 }
 
 .qqqq{
-   margin-top: -155px;
+   margin-top: -220px;
+   margin-right: 700px;
+   padding-right: 900px;
+ 
 }
 
 h4{
@@ -198,7 +201,7 @@ h4{
 .zz{
     text-align: center;
     margin-left: 150px;
-    margin-top: 700px;
+    margin-top: 200px;
     
 }
 
@@ -369,6 +372,11 @@ h4{
 .vv{
     margin-left: 150px;
     margin-top: -450px;
+}
+
+.vvu{
+    margin-left: 200px;
+    margin-top: -350px;
 }
 
 .footer{
