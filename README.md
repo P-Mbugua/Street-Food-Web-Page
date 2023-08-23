@@ -13,7 +13,10 @@ This is a simple webpage of a street hotel that deals with high quality foods bu
 Open your web browser, on the search button paste the webpage URL that is given at the bottom.
 
 ## Demos & Web - Page Screen shots.
-![Alt text](<Screenshot (27).png>) ![Alt text](<Screenshot (28).png>) ![Alt text](<Screenshot (29).png>)
+v![Screenshot (27)](https://github.com/Petermbugu/Street-Food-Web-Page/assets/125895000/793c6071-7d61-44b9-96e5-2d73380f0bd5)
+![Screenshot (27)](https://github.com/Petermbugu/Street-Food-Web-Page/assets/125895000/9810247c-de93-4c4b-97af-91731c72e327)
+![Screenshot (27)](https://github.com/Petermbugu/Street-Food-Web-Page/assets/125895000/97b14db3-c41a-4b49-85cc-eeb8c06fdb1a)
+
 
 ## Author  Info.
 
